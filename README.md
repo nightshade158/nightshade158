@@ -49,7 +49,7 @@
 
 ### 📫 Let's Connect
 
-- 📧 Drop me a mail at: `your-email@example.com`
+- 📧 Drop me a mail at: `collin8575@gmail.com`
 - 🌐 Portfolio (coming soon)
 - 🧠 Fun fact: I once booted an OS on an Android phone... just because I could.
 
